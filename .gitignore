@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+
+# 'compiled' library
+lib
+dist
+library
+build
+
+# npm cache
+.npm
+
+# packed project
+*.tgz
+
+# eslint cache
+.eslintcache
+
+# logs
+log
+logs
+*.log
+
+# dotenv environment variables file
+.env
+.env.test
